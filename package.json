@@ -1,5 +1,5 @@
 {
-  "name": "validate-ts",
+  "name": "@droyson/validate-ts",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.node.js",
